@@ -4,7 +4,7 @@ This app performs simple web-scraping and data visualization of NBA player stati
 Original Project: [EDA Basketball by Dataprofessor](https://github.com/dataprofessor/streamlit_freecodecamp/blob/main/app_3_eda_basketball/basketball_app.py)
 
 ## Web App
-- The deployed web app on Heroku is live at https://dp-penguins.herokuapp.com/
+- The deployed web app on Heroku is live at https://nba-analysis-app.herokuapp.com/
 
 ## My Contributions
 
